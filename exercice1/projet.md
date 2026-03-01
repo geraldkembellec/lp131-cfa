@@ -137,5 +137,5 @@ Rédiger 10–15 lignes expliquant :
 ## Livrables attendus
 
 1. Code Moccodo.
-2. Diagramme généré.
+2. Diagrammes générés (MCD + MLD).
 3. Texte de justification.
