@@ -46,7 +46,7 @@ Un document :
 
 Un auteur :
 
-- est identifié par un matricule ;
+- est identifié par un matricule (*qui devirendra la clé primaire donc*);
 - possède un nom et un prénom ;
 - appartient obligatoirement à un département ;
 - peut rédiger zéro, un ou plusieurs documents.
