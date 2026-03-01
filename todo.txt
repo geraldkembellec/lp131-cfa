@@ -1,0 +1,3 @@
+Installer MAMP sur votre ordi perso : 
+sur Apple : https://www.mamp.info/en/mamp/mac/
+sur PC : https://www.mamp.info/en/mamp/windows/
