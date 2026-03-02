@@ -79,7 +79,7 @@ Un département :
 
 Un emprunt :
 
-- concerne exactement un document ;
+- concerne exactement un document (on ne eput pas emprunter pal **lot**);
 - concerne exactement un collaborateur ;
 - possède une date d’emprunt et une date prévue de retour.
 
