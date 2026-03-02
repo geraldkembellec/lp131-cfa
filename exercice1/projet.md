@@ -83,7 +83,7 @@ Un emprunt :
 - concerne exactement un collaborateur ;
 - possède une date d’emprunt et une date prévue de retour.
 
-Un document peut faire l’objet de zéro, un ou plusieurs emprunts (*dans le temps*).
+Un document peut faire l’objet de zéro, un ou plusieurs emprunts (*dans le temps, mais pas simultanément*).
 
 ---
 
