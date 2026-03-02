@@ -1,7 +1,7 @@
 # FICHE PROJET  
 ## Modélisation MERISE – Centre de documentation d’entreprise  
 **Licence 3 – Documentation d’entreprise**  
-**Durée : 2 heures – Travail en trinôme – Outil : Moccodo**
+**Durée : 2 heures – Travail en trinôme – Outil : [Moccodo](https://www.mocodo.net/)**
 
 ---
 
