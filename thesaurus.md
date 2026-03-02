@@ -10,4 +10,4 @@
     - devis affiné
 - Facture
     - Facture émise
-    - Facture aquicté
+    - Facture aquittée
