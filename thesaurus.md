@@ -1,4 +1,4 @@
-## vocubulaire de la boite
+## vocabulaire de la boite
 ### Descripteur de documents
 #### Type de documents
 - Reporting
