@@ -79,11 +79,11 @@ Un département :
 
 Un emprunt :
 
-- concerne exactement un document (on ne eput pas emprunter pal **lot**);
+- concerne exactement un document (on ne peut pas emprunter par **lot**);
 - concerne exactement un collaborateur ;
 - possède une date d’emprunt et une date prévue de retour.
 
-Un document peut faire l’objet de zéro, un ou plusieurs emprunts.
+Un document peut faire l’objet de zéro, un ou plusieurs emprunts (*dans le temps*).
 
 ---
 
