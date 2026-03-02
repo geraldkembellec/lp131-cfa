@@ -112,7 +112,7 @@ Un descripteur :
 
 ---
 
-### Étape 2 – Production du MCD (60 min)
+### Étape 2 – Production du MCD puis le MLD (60 min)
 
 Contraintes :
 
