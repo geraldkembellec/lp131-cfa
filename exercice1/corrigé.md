@@ -1,7 +1,7 @@
 # Corrigé du MLD
 
 
-- **Auteur** (__id_auteur__, nom, prenom, #id_departement)
+- **Auteur** (<u>__id_auteur__</u>, nom, prenom, #id_departement)
 - **Collaborateur** (_id_collaborateur_, nom, prenom, #id_departement)
 - **Departement** (_id_departement_, libelle)
 - **Descripteur** (_id_descripteur_, libelle, #id_descripteur2)
