@@ -12,4 +12,4 @@ qui est le testeur PHP du W3school pour récupérer des variables et leurs conte
 ## Le local via MAMP
 Le fichier : [formulaire2.html](formulaire2.html)
 Il envoie le contenu de la variable nommée "variable" **en local** sur le serveur MAMP :
-Le fihier [hello.php](hello.php) récupère la variable "variable" et son ccontenu via la commande PHP *$_GET['variable']*
+Le fichier [hello.php](hello.php) récupère la variable "variable" et son contenu via la commande PHP *$_GET['variable']*
