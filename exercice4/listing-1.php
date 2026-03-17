@@ -3,7 +3,9 @@
     <?php
     /* création du connecteur vers la base de données lp131_26 */
     $connecteur=mysqli_connect("localhost","root","root","lp131_26");
-    $resultat=mysqli_query($connecteur,"SELECT * FROM promo");
+    /* je passe la requete SQL = "SELECT * FROM promo" */
+    $SQL = "SELECT * FROM promo";
+    $resultat=mysqli_query($connecteur,$SQL);
     ?>
   <pre>
     <?php
